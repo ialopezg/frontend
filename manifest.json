@@ -1,6 +1,7 @@
 {
   "short_name": "CJS Frontend",
   "name": "CoreJS - Frontend",
+  "description": "CoreJS - SPA Frontend",
   "icons": [
     {
       "src": "favicon.ico",
